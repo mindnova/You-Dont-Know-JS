@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [types & grammar](types & grammar)
+   * toc
    * [ch1](types & grammar/ch1.md)
    * ch2
-   * toc
 * [up & going](up & going)
 
