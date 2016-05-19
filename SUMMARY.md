@@ -1,4 +1,4 @@
 # Summary
 
-* types & grammar
+* [types & grammar](types & grammar)
 
